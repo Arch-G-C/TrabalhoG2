@@ -9,7 +9,7 @@
 
 Tabela de conteúdos
 <!--ts-->
-* [Sobre](#Sobre)
+* [Introdução](#Introdução)
 * [Tabela de Conteudo](#tabela-de-conteudo)
 * [Instalação](#instalacao)
 * [Como usar](#como-usar)
