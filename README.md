@@ -39,6 +39,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Desenvolvedores
 - 🕹️️Pedro Henrique Unterberger da Costa - 3º Semestre de Sistemas de Informação na Antonio Meneghetti Faculdade
 Linkedin: (https://www.linkedin.com/in/pedro-henrique-u-019b36122/)
-- 🖨️Gabriel Antonio Cerentine Farias - 4º Semestre de Sistemas de Informação na Antonio Meneghetti Faculdade
+- 🖨️Gabriel Antonio Cerentini Farias - 4º Semestre de Sistemas de Informação na Antonio Meneghetti Faculdade
 Linkedin: (https://www.linkedin.com/in/gabriel-farias-59ba9b1a6/)
 
