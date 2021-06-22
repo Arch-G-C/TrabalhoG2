@@ -442,7 +442,7 @@ fi
 #sabado
 
 echo -n $z ";"  >> Soja.csv
-echo -n 2 ";">> Soja.csv
+echo -n 3 ";">> Soja.csv
 echo -n $soja3 ";" >> Soja.csv
 echo -n $soja4 ";" >> Soja.csv
 echo -n $b ";" >> Soja.csv
