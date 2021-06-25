@@ -442,7 +442,7 @@ fi
 #sabado
 
 echo -n $z ";"  >> Soja.csv
-echo -n 2 ";">> Soja.csv
+echo -n 3 ";">> Soja.csv
 echo -n $soja3 ";" >> Soja.csv
 echo -n $soja4 ";" >> Soja.csv
 echo -n $b ";" >> Soja.csv
@@ -478,3 +478,18 @@ else
        echo "sim" >> Soja.csv
 
 fi
+
+
+#Medias Semanais
+
+MM=$[(e+i+n+r+v+a1+e1)/7]
+echo "Temperatura Max Media" > SojaMedia.txt
+echo $MM >> SojaMedia.txt
+
+MN=$[(f+j+o+s+x+b1+f1)/7]
+echo "Temperatura Min Media" >> SojaMedia.txt
+echo $MN >> SojaMedia.txt
+
+PM=$[(g+l+p+t+y+c1+g1)/7]
+echo "Precipitacao Media Semanal" >> SojaMedia.txt
+echo $PM >> SojaMedia.txt
